@@ -1,0 +1,15 @@
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\bin\Debug\net5.0\BusinessLogic.deps.json
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\bin\Debug\net5.0\BusinessLogic.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\bin\Debug\net5.0\ref\BusinessLogic.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\bin\Debug\net5.0\BusinessLogic.pdb
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\bin\Debug\net5.0\Core.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\bin\Debug\net5.0\Core.pdb
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.AssemblyInfo.cs
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.csproj.CopyComplete
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\ref\BusinessLogic.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\BusinessLogic\obj\Debug\net5.0\BusinessLogic.pdb
