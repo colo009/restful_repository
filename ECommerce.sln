@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce", "ECommerce\ECommerce.csproj", "{71631085-BBB2-4367-855A-48E52758836B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F0B84F8D-61AB-4D12-8B88-8340F75787EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{248E55C1-4050-43E0-8C4F-E307229BB36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71631085-BBB2-4367-855A-48E52758836B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71631085-BBB2-4367-855A-48E52758836B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71631085-BBB2-4367-855A-48E52758836B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71631085-BBB2-4367-855A-48E52758836B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B84F8D-61AB-4D12-8B88-8340F75787EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B84F8D-61AB-4D12-8B88-8340F75787EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B84F8D-61AB-4D12-8B88-8340F75787EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B84F8D-61AB-4D12-8B88-8340F75787EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248E55C1-4050-43E0-8C4F-E307229BB36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248E55C1-4050-43E0-8C4F-E307229BB36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248E55C1-4050-43E0-8C4F-E307229BB36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248E55C1-4050-43E0-8C4F-E307229BB36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9C2EA5-D23A-4603-8DF3-DB57DC06F337}
+	EndGlobalSection
+EndGlobal
