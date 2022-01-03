@@ -27,10 +27,12 @@ namespace ECommerce
                 {
                     var context = services.GetRequiredService<EcommerceDbContext>();
                     await context.Database.MigrateAsync();
+                    await EcommerceDbContextData.CargarDataAsync(context);
                 }
                 catch (Exception ex)
                 {
                     //Loguear error
+                    Console.WriteLine(ex);
                 }
             }
 

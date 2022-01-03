@@ -32,8 +32,13 @@ namespace ECommerce
             services.AddDbContext<EcommerceDbContext>(opt => {
                 opt.UseSqlServer(Configuration.GetConnectionString("MainConnection"));
             });
+
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
             services.AddTransient<IProductoRepository, ProductoRepository>();
+            
             services.AddControllers();
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ECommerce", Version = "v1" });
