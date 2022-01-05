@@ -63,3 +63,5 @@ D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\ECommerce\obj\Debug\net
 D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\ECommerce\obj\Debug\net5.0\ECommerce.genruntimeconfig.cache
 D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\ECommerce\bin\Debug\net5.0\Humanizer.dll
 D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\ECommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\ECommerce\bin\Debug\net5.0\AutoMapper.dll
+D:\Cursos\Web Apis RestFul con Net - Vaxi Drez\ECommerce\ECommerce\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

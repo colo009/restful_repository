@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Core.Specifications;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,5 +11,7 @@ namespace Core.Interfaces
     {
         Task<T> GetById(int id);
         Task<IReadOnlyList<T>> GetAll();
+        Task<T> GetByIdWithSpec(ISpecification<T> spec);
+        Task<IReadOnlyList<T>> GetAllWithSpec(ISpecification<T> spec);
     }
 }

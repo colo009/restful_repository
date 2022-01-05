@@ -1,6 +1,7 @@
 using BusinessLogic.Data;
 using BusinessLogic.Logic;
 using Core.Interfaces;
+using ECommerce.Dtos;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -29,6 +30,8 @@ namespace ECommerce
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper(typeof(MappingProfiles));
+
             services.AddDbContext<EcommerceDbContext>(opt => {
                 opt.UseSqlServer(Configuration.GetConnectionString("MainConnection"));
             });
